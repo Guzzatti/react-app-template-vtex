@@ -2815,10 +2815,6 @@ growly@^1.3.0:
   resolved "https://registry.npmjs.org/growly/-/growly-1.3.0.tgz"
   integrity sha512-+xGQY0YyAWCnqy7Cd++hc2JqMYzlm0dG30Jd0beaA64sROr8C4nt8Yc9V5Ro3avlSUDTN0ulqP/VBKi1/lLygw==
 
-"guzzatti.appexamplenovo@https://appexample--guzzatti.myvtex.com/_v/private/typings/linked/v1/guzzatti.appexamplenovo@0.0.0+build1728929128/public/_types/react":
-  version "0.0.0"
-  resolved "https://appexample--guzzatti.myvtex.com/_v/private/typings/linked/v1/guzzatti.appexamplenovo@0.0.0+build1728929128/public/_types/react#fa7a0347e046eab3dd768998fc9252b2c0dd5aef"
-
 har-schema@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/har-schema/-/har-schema-2.0.0.tgz"
@@ -5321,6 +5317,10 @@ verror@1.10.0:
   version "8.134.11"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.11/public/@types/vtex.render-runtime"
   integrity sha512-iLlf4JEdaOkpvi2D1/1mlKHp5jEnPpDERAgxRRmfi9/Q5MCrvCCcdWpnHXSVtPEySM5jzKIcJpg+IbeXU3huMw==
+
+"vtex.styleguide@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.13/public/@types/vtex.styleguide":
+  version "9.146.13"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.13/public/@types/vtex.styleguide#f4ccbc54621bf5114ddd115b6032ae320f2eba55"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"

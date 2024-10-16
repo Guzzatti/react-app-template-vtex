@@ -19,9 +19,9 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
-    "guzzatti.appexamplenovo": "https://appexample--guzzatti.myvtex.com/_v/private/typings/linked/v1/guzzatti.appexamplenovo@0.0.0+build1728929128/public/_types/react",
     "typescript": "3.9.7",
-    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.11/public/@types/vtex.render-runtime"
+    "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.134.11/public/@types/vtex.render-runtime",
+    "vtex.styleguide": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.styleguide@9.146.13/public/@types/vtex.styleguide"
   },
   "resolutions": {
     "@types/jest": "26.0.15"

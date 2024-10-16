@@ -1,7 +1,7 @@
 {
   "vendor": "guzzatti",
   "name": "appexamplenovo",
-  "version": "0.0.0",
+  "version": "2.0.0",
   "title": "App Guzzatti IO",
   "description": "App Guzzatti IO Example",
   "builders": {
@@ -10,7 +10,10 @@
     "docs": "0.x",
     "store": "0.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vtex.render-runtime": "8.x",
+    "vtex.styleguide": "9.x"
+  },
   "registries": [
     "smartcheckout"
   ],
